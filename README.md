@@ -1,4 +1,4 @@
-## Letter Recognition Classification
+# Letter Recognition Classification
 
 ## Overview
 This project focuses on classifying a large number of black-and-white rectangular pixel displays into the 26 capital letters of the English alphabet. It utilizes machine learning techniques to identify these letters from a dataset obtained from the UCI Machine Learning Repository.
